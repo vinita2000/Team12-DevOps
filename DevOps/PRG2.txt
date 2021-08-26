@@ -4,3 +4,10 @@ int a = 10;
 int b = a;
 #EXTRA LINES
 #CONTINUED IN BRANCH2
+// Profit - Loss module
+int a = 10;
+int b = a;
+
+function ProfitLoss = (a, b) => {
+  return (a-b)%100;
+}
