@@ -1,2 +1,7 @@
+// Profit - Loss module
 int a = 10;
 int b = a;
+
+function ProfitLoss = (a, b) => {
+  return (a-b)%100;
+}
