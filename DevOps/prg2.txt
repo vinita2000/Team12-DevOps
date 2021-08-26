@@ -11,3 +11,4 @@ int b = a;
 function ProfitLoss = (a, b) => {
   return (a-b)%100;
 }
+// changes by programmer 1
