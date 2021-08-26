@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 // Profit - Loss module
+=======
+#PROFIT-CORRECTION MODULE
+#BRANCH2
+>>>>>>> a1ef6d5b150647f3b0f7656b51ff25271ffb29bd
 int a = 10;
 int b = a;
 
