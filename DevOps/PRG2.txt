@@ -2,3 +2,5 @@
 #BRANCH2
 int a = 10;
 int b = a;
+#EXTRA LINES
+#CONTINUED IN BRANCH2
