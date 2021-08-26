@@ -21,4 +21,4 @@ function ProfitLoss = (a, b) => {
   return (a-b)%100;
 }
 // changes by programmer 1
-// TYPO ERROR CREATION
+// typo for revert
