@@ -20,5 +20,9 @@ int b = a;
 function ProfitLoss = (a, b) => {
   return (a-b)%100;
 }
+<<<<<<< HEAD
 // changes by programmer 1
 // typo for revert
+=======
+// changes by programmer 1
+>>>>>>> parent of 0663a3b (typo error commit)
