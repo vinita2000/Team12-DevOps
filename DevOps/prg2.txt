@@ -1,0 +1,23 @@
+<<<<<<< HEAD:DevOps/PRG2.txt
+<<<<<<< HEAD
+// Profit - Loss module
+=======
+#PROFIT-CORRECTION MODULE
+#BRANCH2
+>>>>>>> a1ef6d5b150647f3b0f7656b51ff25271ffb29bd
+=======
+#PROFIT-CORRECTION MODULE
+#BRANCH2
+int a = 10;
+int b = a;
+#EXTRA LINES
+#CONTINUED IN BRANCH2
+// Profit - Loss module
+>>>>>>> BRANCH2:DevOps/prg2.txt
+int a = 10;
+int b = a;
+
+function ProfitLoss = (a, b) => {
+  return (a-b)%100;
+}
+// changes by programmer 1
